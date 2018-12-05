@@ -1,9 +1,4 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/4 14:32
-# @Author  : hbw
-# @File    : 快速排序.py
-# @Software: PyCharm
+
 import random
 def sort_q(array,l,r):    #array队列、列表
     if l<=r:
